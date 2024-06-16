@@ -33,7 +33,7 @@
 		"watch": "tsc --watch",
 		"prepare": "husky"
 	},
-	"homepage": "https://github.com/evanderkoogh/otel-cf-workers#readme",
+	"homepage": "https://github.com/mymindstorm/otel-cf-workers#readme",
 	"dependencies": {
 		"@opentelemetry/api": "~1.6.0",
 		"@opentelemetry/core": "^1.17.1",
